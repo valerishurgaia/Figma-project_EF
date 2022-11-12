@@ -198,7 +198,7 @@ input[type="checkbox"]#toggle:checked + label::after {
 
 @media (max-width:550px) {
     body {
-        height: 812px;
+        height:140vh;
         flex-direction: column;
         overflow: scroll;
     }
@@ -251,7 +251,7 @@ input[type="checkbox"]#toggle:checked + label::after {
         font-family: inter;
         font-size: 14px;
         position: relative;
-        bottom: 170px;
+        bottom: 40%;
         right: 33vw;
         color: #ED2980;
     }
